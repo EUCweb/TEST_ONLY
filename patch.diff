@@ -1,0 +1,21 @@
+From 9236ccfef6c84e09bfd3bbed33584c0b85c4dff3 Mon Sep 17 00:00:00 2001
+From: Matthias Schlimm <matthias.schlimm@online.de>
+Date: Sat, 17 Mar 2018 22:08:29 +0100
+Subject: [PATCH] add second file
+
+---
+ Neues Textdokument - Kopie.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Neues Textdokument - Kopie.txt
+
+diff --git a/Neues Textdokument - Kopie.txt b/Neues Textdokument - Kopie.txt
+new file mode 100644
+index 0000000..c04177f
+--- /dev/null
++++ b/Neues Textdokument - Kopie.txt	
+@@ -0,0 +1 @@
++1. test with gitflow
+\ No newline at end of file
+-- 
+2.16.2.windows.1
+
